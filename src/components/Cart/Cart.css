@@ -1,0 +1,13 @@
+.order-summery {
+    height: 100vh;
+    border-radius: 7px;
+    background: lightcoral;
+    position: sticky;
+    top: 10px;
+    padding: 20px;
+}
+.order-summery h2 {
+    width: fit-content;
+    margin: auto;
+    border-bottom: 1.5px solid;
+}
